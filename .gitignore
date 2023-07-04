@@ -1,0 +1,19 @@
+# Compiled output
+target/
+
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+.editorconfig
+
+# Temporary or backup files
+*.swp
+*~
+
+# Generated documentation
+/target/doc/
+
+# Environment variables or configuration files
+.env
+
