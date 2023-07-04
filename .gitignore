@@ -14,6 +14,5 @@ target/
 # Generated documentation
 /target/doc/
 
-# Environment variables or configuration files
-.env
+
 
